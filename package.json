@@ -1,0 +1,13 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "homepage": "https://github.com/cyberJorney/hexlet-js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cyberJorney",
+  "license": "ISC"
+}
